@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDCardProxy/IDCardProxy.iml" filepath="$PROJECT_DIR$/IDCardProxy/IDCardProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyDesign.iml" filepath="$PROJECT_DIR$/ProxyDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerminalDesign/TerminalDesign.iml" filepath="$PROJECT_DIR$/TerminalDesign/TerminalDesign.iml" />
+    </modules>
+  </component>
+</project>

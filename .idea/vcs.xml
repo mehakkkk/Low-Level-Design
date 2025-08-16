@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BookMyShowDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BuilderDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CarRentalDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChainResponsibilityDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompositeDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DecoratorDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FacadeDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FactoryDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IteratorDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MediatorDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MementoDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NullDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObjectPoolDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObserverDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParkingLot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrototypeDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProxyDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SingletonDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemplateDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/developer-joyofenergy-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/developer-joyofenergy-java-practice" vcs="Git" />
+  </component>
+</project>

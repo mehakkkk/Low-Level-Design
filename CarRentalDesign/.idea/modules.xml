@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarRentalDesign.iml" filepath="$PROJECT_DIR$/CarRentalDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model/Model.iml" filepath="$PROJECT_DIR$/Model/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" filepath="$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReservationStrategy/ReservationStrategy.iml" filepath="$PROJECT_DIR$/ReservationStrategy/ReservationStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/Service.iml" filepath="$PROJECT_DIR$/Service/Service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,103 @@
+1) Why did you choose to use interfaces for SlotStrategy and PaymentStrategy?
+
+They may want to understand your reasoning for using the Strategy pattern and how it promotes flexibility and reusability.
+Can you explain the relationship between ParkingLot, Slot, and Vehicle?
+
+This question checks your understanding of object composition and associations.
+
+2) How does your design adhere to the SOLID principles?
+
+Be prepared to explain how your design adheres to principles like Single Responsibility, Open/Closed, and Dependency Inversion.
+
+3) Why did you use a TreeSet for NaturalOrderSlots and a Queue for FirstComeFirstServe?
+
+The interviewer may be interested in your understanding of data structures and their suitability for specific use cases.
+Why did you choose to use a Map<String, Slot> for storing parking slots?
+
+They may ask this to evaluate your choice of data structure for efficient retrieval and management of slots.
+Scalability & Extensibility
+
+4) How would you scale this system to support multiple parking lots?
+
+This question is to understand your thoughts on scalability and how your design could handle a larger scope.
+If you had to add a new type of slot or vehicle, how would your design accommodate it?
+
+They may ask this to see if your design is easily extendable.
+
+5) How would your design handle high concurrency, such as multiple vehicles parking or leaving simultaneously?
+
+The interviewer might want to know how your design deals with concurrency and synchronization.
+If the parking lot system needed to support reservations, how would you modify your design?
+
+This question tests your ability to adapt the design to new requirements.
+Error Handling & Edge Cases
+
+6) What happens if a vehicle tries to park when the lot is full?
+
+They may ask about your error-handling strategy, such as throwing exceptions or returning error codes.
+How does your system handle invalid tickets, such as those that have expired or been tampered with?
+
+This checks your robustness in handling edge cases and ensuring system integrity.
+
+7) What would happen if a vehicle parks without being assigned a slot? How does your design prevent this?
+
+This tests the safeguards in your system design.
+
+8) How does the system deal with overstay scenarios?
+
+They may ask this to explore how you handle vehicles that overstay their allotted time.
+Payment & Business Logic
+
+9) How does your design accommodate different payment methods, and what would be the process for adding a new one?
+
+They’re likely testing the flexibility of your payment system.
+
+10) What would happen if a payment fails during the unpark process?
+
+This is to see how you handle failed transactions and whether the vehicle is allowed to leave.
+
+11) Can you explain how discounts or promotions could be integrated into your payment system?
+
+They may ask this to see how well your system can adapt to changing business requirements.
+Design Patterns & Best Practices
+
+12) Why did you decide not to use certain design patterns (e.g., Singleton, Factory) in your design?
+
+They might want to hear your reasoning for excluding certain patterns and whether you’re aware of their pros and cons.
+
+13) How would you ensure that the ParkingLotService class does not become too large and unmanageable?
+
+This question is about adhering to the Single Responsibility Principle and avoiding a "God object."
+Performance & Efficiency
+
+14) What is the time complexity of parking a vehicle in the NaturalOrderSlots strategy?
+
+They may ask this to test your knowledge of the performance implications of your data structure choices.
+
+15) How does your design optimize for quick retrieval of available slots?
+
+This could involve discussing how your data structures and algorithms contribute to efficient operations.
+
+16) How would you optimize your system if you had to handle a very large number of vehicles and slots?
+
+This tests your ability to think about performance optimization in large-scale scenarios.
+Miscellaneous & Open-Ended Questions
+What are some potential real-world issues that your design might encounter? How would you address them?
+
+This is to see how well you can anticipate and plan for challenges.
+If you were given more time, what improvements or features would you add to this design?
+
+This question assesses your ability to prioritize and think critically about future enhancements.
+How would you ensure the security and integrity of the parking lot system?
+
+They might ask this to evaluate your understanding of security concerns, such as preventing fraud in payment or tampering with tickets.
+Can you walk through the process flow from when a vehicle enters the parking lot to when it leaves?
+
+This helps the interviewer understand your end-to-end process flow and how all components interact.
+Behavioral Questions Related to the Design
+Was there any part of the design you found particularly challenging? How did you overcome it?
+
+This question might be used to understand your problem-solving process.
+If a team member suggested a completely different approach to the design, how would you handle that?
+
+This is to gauge your ability to collaborate and accept feedback.
